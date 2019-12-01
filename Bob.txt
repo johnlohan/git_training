@@ -1,1 +1,2 @@
-Hi, I'm Bob, a file created on the local rep.
+Hi, I'm Bob, a file created on the local repository.
+Now with some extra text added.
